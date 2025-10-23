@@ -1,10 +1,10 @@
-# VasculatureVision Project
+# micro_vascular_vision Project
 
-Welcome to the VasculatureVision project repository! This repository contains code files for our microvasculature segmentation project, aimed at automating the analysis of microvascular structures in histology images from healthy human kidney tissue slides.
+Welcome to the micro_vascular_vision project repository! This repository contains code files for our microvasculature segmentation project, aimed at automating the analysis of microvascular structures in histology images from healthy human kidney tissue slides.
 
 ## Project Overview
 
-The goal of VasculatureVision is to create a robust and accurate model for segmenting microvascular structures, including capillaries, arterioles, and venules, in 2D PAS-stained histology images. By automating this process, we aim to enhance researchers' understanding of how blood vessels are arranged in human tissues, contributing to the development of a Vascular Common Coordinate Framework (VCCF) and a Human Reference Atlas (HRA).
+The goal of micro_vascular_vision is to create a robust and accurate model for segmenting microvascular structures, including capillaries, arterioles, and venules, in 2D PAS-stained histology images. By automating this process, we aim to enhance researchers' understanding of how blood vessels are arranged in human tissues, contributing to the development of a Vascular Common Coordinate Framework (VCCF) and a Human Reference Atlas (HRA).
 
 ## Repository Structure
 
@@ -16,7 +16,7 @@ The goal of VasculatureVision is to create a robust and accurate model for segme
 
 1. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/Abhinavsetia/VasculatureVision
+   git clone https://github.com/Abhinavsetia/micro_vascular_vision
    ```
 
 2. Follow the instructions in `k-fold-cv-coco-dataset-generator.ipynb.ipynb` to generate your training and validation datasets.
